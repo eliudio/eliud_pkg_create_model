@@ -1,10 +1,9 @@
 ---
 name: eliud_pkg_create_model
-description: eliud_pkg_create_model is a package to provide create functionality to your
-  eliud app (the ability to update the app through the gui). More info at https://eliud.io
+description: eliud_pkg_create_model is the model package for the package eliud_pkg_create. More info at https://eliud.io
 homepage: https://eliud.io
-repository: https://github.com/eliudio/eliud_pkg_create
-version: 1.1.5+5
+repository: https://github.com/eliudio/eliud_pkg_create_model
+version: 1.0.0
 environment:
   sdk: '>=2.17.0 <4.0.0'
   flutter: '>=3.0.0'

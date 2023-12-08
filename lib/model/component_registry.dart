@@ -38,9 +38,6 @@ class ComponentRegistry {
       "playStores",
     ]);
 
-    Apis.apis().getRegistryApi().register(
-        componentName: "eliud_pkg_create_model_internalWidgets",
-        componentConstructor: ListComponentFactory());
     Apis.apis()
         .getRegistryApi()
         .addDropDownSupporter("playStores", DropdownButtonComponentFactory());
